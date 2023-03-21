@@ -1,0 +1,30 @@
+
+.new-middle {
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+}
+
+.day {
+  border: 1px solid #F7C59F;
+  background-color: #F7C59F;
+  
+}
+
+.day:hover {
+  background-color: #004E89;
+ 
+}
+
+.temp-container {
+  display: flex;
+}
+
+.temp-high {
+  padding: 0.3rem;
+  color: #FF6B35;
+}
+.temp-low {
+  padding: 0.3rem;
+  color: #ffff;
+}
