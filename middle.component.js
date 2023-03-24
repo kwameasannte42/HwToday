@@ -10,6 +10,8 @@ import Weather from "./Weather";
 
 // const []
 
+
+
 const Middle = () => {
   return (
     <div className="container-fluid middle text-center p-3">
